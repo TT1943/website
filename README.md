@@ -1,2 +1,0 @@
-# website
-CLoot Project website
